@@ -5,7 +5,13 @@ Last week I printed an article to read on the subway for another class. But the 
 
 The article’s title is “What's Gender Got To Do With It?” and it was written by Amber Billey, Emily Drabinski and K.R. Roberto. It is a discussion about the MARC record system to catalogue things in a library and how nowadays the standards of gender classification of the authors is decided based on the author’s name or physical appearance. Also the system allows only three options for this, female, male or unknown.
 
-So the fact that the printer made this error that looked like a poem inspired me to use the selected phrases to make a Dada poem. Following the Dada movement principles of serendipity and randomness, I highlighted all the printed phrases that made more sense out of the whole nonsense. 
+<p align="center">
+  <img src="https://github.com/karihigh/s2_rwet/blob/master/assignment-2/scanned.png?raw=true" align="middle" width="90%">
+</p>
+
+So the fact that the printer made this error that looked like a poem inspired me to use the selected phrases to make a Dada poem. Following the Dada movement principles of serendipity and randomness, I highlighted all the printed phrases that made more sense out of the whole nonsense. If they were more complete phrases or loose words. I then typed them all using a dot '.' between each piece. Then in python I added these phrases and split them by the dot. This way the outcome would have some sort of sense by remixing the chunks of text I found.
+
+This is one of the results I got: 
 
 >>  relevance of gender as a
 descriptive attribute  does

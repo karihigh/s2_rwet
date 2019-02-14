@@ -13,8 +13,8 @@ The article’s title is “What's Gender Got To Do With It?” and it was writt
   <img src="https://github.com/karihigh/s2_rwet/blob/master/assignment-2/scan2.png?raw=true" align="middle" width="90%">
 </p>
 
-[See the complete scanned document here](https://github.com/karihigh/s2_rwet/blob/master/assignment-2/assignment1.ipynb).
-https://github.com/karihigh/s2_rwet/blob/master/assignment-2/201902141458.pdf
+*See the complete scanned document [here](https://github.com/karihigh/s2_rwet/blob/master/assignment-2/201902141458.pdf).*
+
 
 So the fact that the printer made this error that looked like a poem inspired me to use the selected phrases to make a Dada poem. Following the Dada movement principles of serendipity and randomness, I highlighted all the printed phrases that made more sense out of the whole nonsense. If they were more complete phrases or loose words. I then typed them all using a dot '.' between each piece. Then in python I added these phrases and split them by the dot. This way the outcome would have some sort of sense by remixing the chunks of text I found.
 

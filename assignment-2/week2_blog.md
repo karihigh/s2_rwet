@@ -11,11 +11,14 @@ The article’s title is “What's Gender Got To Do With It?” and it was writt
 
 So the fact that the printer made this error that looked like a poem inspired me to use the selected phrases to make a Dada poem. Following the Dada movement principles of serendipity and randomness, I highlighted all the printed phrases that made more sense out of the whole nonsense. If they were more complete phrases or loose words. I then typed them all using a dot '.' between each piece. Then in python I added these phrases and split them by the dot. This way the outcome would have some sort of sense by remixing the chunks of text I found.
 
-This is one of the results I got: 
+Here is the source [code](https://github.com/karihigh/s2_rwet/blob/master/assignment-2/assignment1.ipynb).
 
->>  relevance of gender as a
+And this is one of the results I got:
+
+~~~~
+relevance of gender as a
 descriptive attribute  does
-not akcnowledge the fluidity
+not acknowledge the fluidity
 and variety of possible gender
 identity or identities
 natural and binary by many
@@ -51,10 +54,11 @@ boring to this author  include
 any information about a person
 gender  look like  ways of
 conceptualizing sex and gender
-that challenge   appropiate
+that challenge   appropriate
 term (female, male, not
 known), and, if none of the
 terms are appropriate, record
-I am not transgedered I am
+I am not transgendered I am
 just a gay male  interested in
 the author's gender
+~~~~

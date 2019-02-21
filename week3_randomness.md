@@ -1,7 +1,7 @@
 # Making sense of what surrounds as
 ## Randomness
 
-<div style="text-align: justify">
+<div class=text-justify">
 To answer the proposed questions taking into account the readings for this week, I would like to start agreeing that juxtaposition is one of the foundations of poetic composition. Considering my small knowledge about poetry, I feel that there is a need to define a limit between poems and other creative writing texts (such as stories, novels, essays, etc.). I agree that the boundaries between the latter are and can be transversed, but for research reasons I feel that there must be some way to distinguish them. That said, I believe that humans have the urge to make sense of the world and natural phenomena. Assigning figures and meaning to a group of stars in the sky that in reality are thousands of lightyears apart doesn't really make any sense. And then even making constellations 'responsible' for human phenomena (zodiac signs) feels even more ridiculous. But still, constellations are a very good example of how the human brain pursues order where there might not physically be. Maybe for spiritual or technical reasons (like navigation back in the days), both as important as the other.
 
 So juxtaposition, whatever form it takes in a poem, it is what makes it a poem rather that other kind of text. I was taught in primary school that poems have a certain structure that makes them a poem. Even though this is arguable, I still believe that what makes a poem poetry is the rhythm and musicality that emerges by reading it, specially out loud. And this musicality I feel it is achieved by the juxtaposition of words, phrases and rhymes.
